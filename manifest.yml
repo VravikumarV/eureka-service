@@ -1,0 +1,4 @@
+applications:
+- name: eureka-service
+  instances: 1
+  random-route: true
